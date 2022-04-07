@@ -42,3 +42,5 @@ print("The average of two mumber is:",Average)
 a = int(input("Enter the number:"))
 square = a**2
 print("square is:",square)
+
+print("Hello git")
